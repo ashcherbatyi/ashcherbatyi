@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksii Shcherbatyi</h1>
 <h3 align="center">IT Engineer from Ukraine</h3>
 
-- 🔭 I’m currently working on **BGV**
+- 🔭 I’m currently working on **Learning to become a DevOps Engineer or SRE**
 
 - 🌱 I’m currently learning **DevOps та Kubernetes. Практичний інтенсив+**
 
