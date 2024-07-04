@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Learning to become a DevOps Engineer or SRE**
 
-- 🌱 I’m currently learning **DevOps та Kubernetes. Практичний інтенсив+**
+- 🌱 I’m currently learning **DevOps та Kubernetes. Practical intensive+**
 
 - 📫 How to reach me **alexey.shcherbatyi@gmail.com**
 
